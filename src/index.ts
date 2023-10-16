@@ -6,7 +6,7 @@ const sketch = (p: p5) => {
   };
 
   p.draw = () => {
-    p.background(200);
+    p.background(50);
 
     p.circle(p.width / 2, p.height / 2, p.width / 4);
   };
