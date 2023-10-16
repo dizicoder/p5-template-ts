@@ -1,4 +1,4 @@
-# p5-template
+# p5-template-ts
 
 타입스크립트와 Vite.js 번들러를 사용한 p5js 템플릿 코드.
 
